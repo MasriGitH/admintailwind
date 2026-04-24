@@ -1,4 +1,4 @@
-# admintailwind
+# AdminTailWind
 
 Laravel 13 + Tailwind Admin Template
 
