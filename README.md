@@ -1,6 +1,6 @@
 # admintailwind
 
-Laravel + Tailwind Admin Template
+Laravel 13 + Tailwind Admin Template
 
 ---
 
@@ -15,7 +15,7 @@ Built for:
 ---
 
 ## Tech Stack
-- Laravel
+- Laravel 13
 - Tailwind CSS
 - Vite
 - PHP
